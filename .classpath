@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/ejml-core-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/gt-epsg-hsql-21.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/gt-wfs-ng-21.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/gt-wms-21.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/indriya-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/si-quantity-0.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/si-units-java8-0.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/systems-common-java8-0.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/unit-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/uom-lib-common-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Java/GoogleEarthLauncher/lib/uom-se-1.0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
